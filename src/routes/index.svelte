@@ -96,10 +96,6 @@
     text-decoration: underline;
     text-decoration-color: tomato;
   }
-
-  .desc {
-    font-size: 20px;
-  }
 </style>
 
 <svelte:head>
@@ -108,11 +104,7 @@
 
 <div class="main">
   <h1>William Lane</h1>
-  <p class="desc">
-    A
-    {new Date().getFullYear() - 2006}
-    year old coder from Camas, Washington
-  </p>
+  <p>{new Date().getFullYear() - 2006} year old coder from Camas, Washington</p>
   <div class="container">
     <div class="border-bottom" />
   </div>
@@ -169,4 +161,6 @@
   <div class="container">
     <div class="border-bottom" />
   </div>
+
+  <a href="https://www.notion.so/Website-design-learning-log-2a886f26aa534c32a4b7a100a5cb85f3" target="_blank">Learning log</a>
 </div>

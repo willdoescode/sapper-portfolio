@@ -307,7 +307,7 @@
       Some languages that I will learn in the future are
       <a target="_blank" href="https://golang.org/">Golang</a>
       and
-      <a target="_blank" href="https://www.haskell.org/">Haskell</a>
+      <a target="_blank" href="https://wwqw.haskell.org/">Haskell</a>
     </h3>
 
     <div class="how">
